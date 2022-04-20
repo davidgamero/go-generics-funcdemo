@@ -1,0 +1,1 @@
+# Examples for map, filter, and reduce using go 1.18 generics
